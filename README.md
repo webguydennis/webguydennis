@@ -28,3 +28,14 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=webguydennis&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## Favorite Repos
+### C#
+- [Azure AI](https://github.com/webguydennis/AzureAI)<br /><br /> Uses the Azure Cognitive Services for Artificial Intelligence.<br /><br />
+- [BlockChain API](https://github.com/webguydennis/BlockChainAPI) <br /><br /> Demonstrate the Mining a blockchain including Block, Hashing Link, Proof Of Work, and Chain concepts.<br /><br />
+- [eSim API](https://github.com/webguydennis/eSimAPI) <br /><br /> Provision, Authenticate, and Activate an eSim card.<br /><br />
+- [SMS](https://github.com/webguydennis/SMS)<br /><br /> This checks for any illegal words before a text message is sent. <br /><br />
+### Python
+- [Message Queing Telemetry Transport (MQTT)](https://github.com/webguydennis/mqtt) <br /><br /> Use a lightweight publish and subscribe network protocol with Python Django and paho-mqtt. <br /><br />
+### React JS
+- [Project Management](https://github.com/webguydennis/ProjectManagement) <br /><br />Manages a project. Add tasks on a project.<br /><br />
+- [Tic Tac Toe](https://github.com/webguydennnis/TicTacToe) <br /><br /> Play a game Tic Tac Toe.<br /><br />
