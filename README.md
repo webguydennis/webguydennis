@@ -38,4 +38,4 @@
 - [Message Queing Telemetry Transport (MQTT)](https://github.com/webguydennis/mqtt) <br /><br /> Use a lightweight publish and subscribe network protocol with Python Django and paho-mqtt. <br /><br />
 ### React JS
 - [Project Management](https://github.com/webguydennis/ProjectManagement) <br /><br />Manages a project. Add tasks on a project.<br /><br />
-- [Tic Tac Toe](https://github.com/webguydennnis/TicTacToe) <br /><br /> Play a game Tic Tac Toe.<br /><br />
+- [Tic Tac Toe](https://github.com/webguydennis/TicTacToe) <br /><br /> Play a game Tic Tac Toe.<br /><br />
