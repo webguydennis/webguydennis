@@ -39,3 +39,5 @@
 ### React JS
 - [Project Management](https://github.com/webguydennis/ProjectManagement) <br /><br />Manages a project. Add tasks on a project.<br /><br />
 - [Tic Tac Toe](https://github.com/webguydennis/TicTacToe) <br /><br /> Play a game Tic Tac Toe.<br /><br />
+### Typescript
+- [Drag and Drop - Project](https://github.com/webguydennis/DragAndDropProject)<br /><br />Drag and drop feature a project from Active Project and Finished Project or vice versa.<br /><br /> 
